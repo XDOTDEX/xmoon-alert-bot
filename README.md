@@ -1,4 +1,4 @@
-<h1 align="center">🔔 XMoon Alert Bot</h1>
+<h1 align="center">🔔 Alert Bot</h1>
 
 <p align="center">
   <b>Never miss an opportunity again.</b><br/>
